@@ -1,0 +1,64 @@
+body {
+    background-color: 	Gainsboro;
+}
+
+div {
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+img{
+    width: 190px;
+}
+h1 {
+    font-size: 24px;
+    font-family: Verdana;
+    color: #606062;
+    padding: 10px;
+    border: 5px solid Gray;
+}
+h2{
+    font-size: 20px;
+    font-family: Verdana;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    color: #7a797b
+}
+
+h3{
+    font-size: 18px;
+    font-family: Verdana;
+    font-weight: normal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 2px solid #606062;
+    border-bottom: 2px solid #606062;
+    color: #606062
+}
+
+p {
+    font-size: 18px;
+    font-family: Verdana;
+    text-align: justify;
+    line-height: 32px;
+    margin-bottom: 35px;
+    color: #616163;
+}
+
+a {
+    font-size: 16px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin-top: 15px;
+    border-radius: 25px;
+    background-color: #25D366;
+    color: #ffffff;
+}
+
+span {
+    font-weight: bold;
+    color: black;
+}
